@@ -1,4 +1,4 @@
-local Table = {
+["Table"] = {
 "Form",
 "Bam",
 }
