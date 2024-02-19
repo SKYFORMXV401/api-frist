@@ -1,4 +1,4 @@
-local Test = {
+Test = {
     ["Name"] = "Form",
     ["age"] = 80,
 }
